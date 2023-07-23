@@ -1,0 +1,562 @@
+.Red_Line{
+    width: 2050px;
+    height: 20px;
+    position: relative;
+    top: -10px;
+    left: 0px;
+    background-color: rgb(185, 31, 31);
+}
+.Red_Line_2{
+    margin: -7px;
+    width: 10px;
+    height: 885px;
+    top: -50px;
+    left: -1px;
+    position: relative;
+    background-color: rgb(185, 31, 31);
+}.Red_Line_3{
+    margin: 300px;
+    width: 10px;
+    height: 930px;
+    left: 1740px;
+    top: -1230px;
+    position: relative;
+    background-color: rgb(185, 31, 31);
+}
+.h1{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 35px;
+    color: rgb(185, 31, 31);
+    left: 660px;
+    top: 50px;
+    position: absolute;
+}
+.Scroll_The_Ancient_History{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    color: #ffffff;
+    background-color: rgb(185, 31, 31);
+    left: 1100px;
+    top: -2150px;
+    border-color: #ffffff;
+    position: relative;
+} .Scroll_The_European_History{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    color: #ffffff;
+    background-color: rgb(185, 31, 31);
+    left: 690px;
+    top: -2095px;
+    border-color: #ffffff;
+    position: relative;
+}.Scroll_The_18th_19th_Century_History{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    color: #ffffff;
+    background-color: rgb(185, 31, 31);
+    left: 1114px;
+    top: 420px;
+    border-color: #ffffff;
+    position: absolute;
+}.Scroll_The_WWII_History{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    color: #ffffff;
+    background-color: rgb(185, 31, 31);
+    left: 1170px;
+    top: 480px;
+    border-color: #ffffff;
+    position: absolute;
+}.Scroll_Corn_In_Todays_Days_History{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    color: #ffffff;
+    background-color: rgb(185, 31, 31);
+    left: 1140px;
+    top: 540px;
+    border-color: #ffffff;
+    position: absolute; 
+}.Scroll_Topic_2{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    color: #ffffff;
+    background-color: rgb(185, 31, 31);
+    left: 1080px;
+    top: 600px;
+    border-color: #ffffff;
+    position: absolute;
+}.Scroll_Reason_2{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    color: #ffffff;
+    background-color: rgb(185, 31, 31);
+    left: 1550px;
+    top: 308px;
+    width: 200px;
+    height: 80px;
+    border-color: #ffffff;
+    position: absolute;
+}.Scroll_Topic_3_Intro{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    color: #ffffff;
+    background-color: rgb(185, 31, 31);
+    left: 1550px;
+    top: 408px;
+    width: 200px;
+    height: 80px;
+    border-color: #ffffff;
+    position: absolute;
+}.Scroll_Conclutions{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    color: #ffffff;
+    background-color: rgb(185, 31, 31);
+    left: 1550px;
+    top: 508px;
+    width: 200px;
+    height: 80px;
+    border-color: #ffffff;
+    position: absolute;
+}.Scroll_Interesting_Corn_Facts_Intro{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    color: #ffffff;
+    background-color: rgb(185, 31, 31);
+    left: 1550px;
+    top: 608px;
+    width: 200px;
+    height: 80px;
+    border-color: #ffffff;
+    position: absolute;
+}
+.Hook{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 24px;
+    top: 110px;
+    left: 150px;
+    position: relative;
+}
+.Definition_Name{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    top: -2270px;
+    left: 400px;
+    color: rgb(185, 31, 31);
+    position: relative;
+}
+.Definition{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 25px;
+    top: -2260px;
+    left: 50px;
+    width: 250px;
+    color: rgb(185, 31, 31);
+    position: relative;
+}
+.Single_Corn{
+    top: -2510px;
+    left: 600px;
+    position: relative;
+}
+.History_Name{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 50px;
+    top: -2450px;
+    left: 570.5px;
+    color:rgb(185, 31, 31);
+    position: relative;
+}
+.Ancient_Era{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 25px;
+    top: -2470px;
+    left: 650.5px;
+    color:rgb(185, 31, 31);
+    position: relative;
+} .Corn_History_Ancient{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 22px;
+    top: -2450px;
+    left: 30px;
+    color:rgb(185, 31, 31);
+    position: relative;
+}.Ancient_Corn{
+    top: -2430px;
+    left: 600px;
+    position: relative;
+} .European_Name{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 50px;
+    top: 1800px;
+    left: 500px;
+    color:rgb(185, 31, 31);
+    position: absolute;
+}.Corn_History_European{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 22px;
+    top: 1930px;
+    left: 50px;
+    color:rgb(185, 31, 31);
+    position: absolute;
+}.Corm_18_19_Centruy_Name{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 50px;
+    top: 2060px;
+    left: 500px;
+    color:rgb(185, 31, 31);
+    position: absolute;
+}.Corn_History_18_19_Century{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 22px;
+    top: 2190px;
+    left: 50px;
+    color:rgb(185, 31, 31);
+    position: absolute;
+}.Yellow_Dent_Corn_Picture{
+    top: 2300px;
+    left: 575px;
+    position: absolute;
+}.Corn_WWII_Name{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 50px;
+    top: 2850px;
+    left: 630px;
+    color:rgb(185, 31, 31);
+    position: absolute;
+}.Corn_History_WWII{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 22px;
+    top: 3000px;
+    left: 40px;
+    color:rgb(185, 31, 31);
+    position: absolute;
+}.WWII_Soldiers{
+    top: 3170px;
+    left: 1000px;
+    position: absolute;
+}.Soldiers_WWII_Description{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    color: rgb(185, 31, 31);
+    top: 3370px;
+    left: 990px;
+    position: absolute;
+}.Canned_Corn_WWII{
+    top: 3200px;
+    left: 300px;
+    position: absolute;
+}.Canned_Corn_Description{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    color: rgb(185, 31, 31);
+    top: 3350px;
+    left: 290px;
+    position: absolute;
+}.Corn_History_Todays_Days_Name{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 50px;
+    color: rgb(185, 31, 31);
+    top: 3450px;
+    left: 560px;
+    position: absolute;
+}.Corn_History_Todays_Days{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 22px;
+    color: rgb(185, 31, 31);
+    top: 3600px;
+    left: 50px;
+    position: absolute;
+}.Tacos_Corn{
+    top: 3750px;
+    width: 500px;
+    height: 300px;
+    left: 150px;
+    position: absolute;
+}.Tacos_Description{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    color: rgb(185, 31, 31);
+    top: 4050px;
+    left: 140px;
+    position: absolute;
+}.Popcorn_Corn{
+    top: 3750px;
+    width: 500px;
+    height: 300px;
+    left: 1000px;
+    position: absolute;
+}.Popcorn_Description{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    color: rgb(185, 31, 31);
+    top: 4050px;
+    left: 990px;
+    position: absolute; 
+}.Topic_2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 50px;
+    color: rgb(185, 31, 31);
+    top: 4100px;
+    left: 490px;
+    position: absolute;
+}.Reason_1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    color: rgb(185, 31, 31);
+    top: 4180px;
+    left: 630px;
+    position: absolute;
+}.Topic_2_Reason_1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 22px;
+    color: rgb(185, 31, 31);
+    top: 4260px;
+    left: 50px;
+    position: absolute;
+}.Reason_2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 50px;
+    color: rgb(185, 31, 31);
+    top: 4310px;
+    left: 440px;
+    position: absolute;
+}.Topic_2_Reason_2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 22px;
+    color: rgb(185, 31, 31);
+    top: 4440px;
+    left: 50px;
+    position: absolute;
+}.Corn_Stuff{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    color: rgb(185, 31, 31);
+    top: 4500px;
+    left: 50px;
+    position: absolute;
+}.Ethanol_Image{
+    top: 4600px;
+    width: 350px;
+    height: 300px;
+    left: 150px;
+    position: absolute;
+}.Ethanol_Description{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    color: rgb(185, 31, 31);
+    top: 4900px;
+    left: 130px;
+    position: absolute;
+}.Plastics_Image{
+    top: 4600px;
+    width: 350px;
+    height: 300px;
+    left: 1000px;
+    position: absolute;
+}.Plastics_Description{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    color: rgb(185, 31, 31);
+    top: 4900px;
+    left: 990px;
+    position: absolute;
+}.Glues_Image{
+    top: 4900px;
+    width: 350px;
+    height: 300px;
+    left: 550px;
+    position: absolute;
+}.Glues_Description{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    color: rgb(185, 31, 31);
+    top: 5200px;
+    left: 540px;
+    position: absolute;
+}.Topic_3{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 50px;
+    color: rgb(185, 31, 31);
+    top: 5250px;
+    left: 440px;
+    position: absolute;
+}.Topic_3_Intro{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 40px;
+    color: rgb(185, 31, 31);
+    top: 5360px;
+    left: 480px;
+    position: absolute;
+}.Topic_3_Disadvantage_1_Intro{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 50px;
+    color: rgb(185, 31, 31);
+    top: 5460px;
+    left: 520px;
+    position: absolute;
+}.Topic_3_Disadvantage_1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 22px;
+    color: rgb(185, 31, 31);
+    top: 5590px;
+    left: 50px;
+    position: absolute;
+}.CocaCola_Image{
+    top: 5790px;
+    width: 350px;
+    height: 300px;
+    left: 230px;
+    position: absolute;
+}.CocaCola_Description{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    color: rgb(185, 31, 31);
+    top: 6090px;
+    left: 30px;
+    position: absolute;
+}.Forest_Without_Trees_Image{
+    top: 5790px;
+    width: 350px;
+    height: 300px;
+    left: 1000px;
+    position: absolute;
+}.Forest_Without_Trees_Description{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    color: rgb(185, 31, 31);
+    top: 6090px;
+    left: 800px;
+    position: absolute;
+}.Conclutions_Intro{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 50px;
+    color: rgb(185, 31, 31);
+    top: 6140px;
+    left: 700px;
+    position: absolute;
+}.Conclutions_Text{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 22px;
+    color: rgb(185, 31, 31);
+    top: 6250px;
+    left: 50px;
+    position: absolute;
+}.Interesting_Corn_Facts_Intro{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 50px;
+    color: rgb(185, 31, 31);
+    top: 6400px;
+    left: 500px;
+    position: absolute;
+}.Interesting_Corn_Facts_1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    color: rgb(185, 31, 31);
+    top: 6530px;
+    left: 50px;
+    position: absolute;
+}.Interesting_Corn_Facts_2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    color: rgb(185, 31, 31);
+    top: 6600px;
+    left: 50px;
+    position: absolute;
+}.Interesting_Corn_Facts_3{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    color: rgb(185, 31, 31);
+    top: 6750px;
+    left: 50px;
+    position: absolute;
+}.Interesting_Corn_Facts_4{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    color: rgb(185, 31, 31);
+    top: 6850px;
+    left: 50px;
+    position: absolute;
+}.Interesting_Corn_Facts_5{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    color: rgb(185, 31, 31);
+    top: 6950px;
+    left: 50px;
+    position: absolute;
+}.Interesting_Corn_Facts_6{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    color: rgb(185, 31, 31);
+    top: 7050px;
+    left: 50px;
+    position: absolute;
+}.Interesting_Corn_Facts_7{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    color: rgb(185, 31, 31);
+    top: 7150px;
+    left: 50px;
+    position: absolute;
+}.Interesting_Corn_Facts_8{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    color: rgb(185, 31, 31);
+    top: 7300px;
+    left: 50px;
+    position: absolute;
+}.Interesting_Corn_Facts_9{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    color: rgb(185, 31, 31);
+    top: 7400px;
+    left: 50px;
+    position: absolute;
+}.Interesting_Corn_Facts_10{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    color: rgb(185, 31, 31);
+    top: 7500px;
+    left: 50px;
+    position: absolute;
+}.Recomandation_Ted_Video{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    color: rgb(185, 31, 31);
+    top: 7650px;
+    left: 100px;
+    position: absolute;
+}.Ted_Imgage{
+    top: 7700px;
+    left: 110px;
+    position: absolute;
+}.Watch_Ted_Button{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    color: #ffffff;
+    background-color: rgb(185, 31, 31);
+    left: 490px;
+    top: 7800px;
+    border-color: #ffffff;
+    position: absolute;
+}.Recomandation_History_Video{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    color: rgb(185, 31, 31);
+    top: 7925px;
+    left: 110px;
+    position: absolute;
+}.History_Video{
+    top: 8000px;
+    left: 110px;
+    position: absolute;
+}.Watch_History_Button{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    color: #ffffff;
+    background-color: rgb(185, 31, 31);
+    left: 490px;
+    top: 8100px;
+    border-color: #ffffff;
+    position: absolute;
+}
